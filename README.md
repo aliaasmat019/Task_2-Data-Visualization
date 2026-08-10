@@ -1,4 +1,4 @@
-# Task 2 — Data Visualization
+# Task_2: Data Visualization
 
 A visual analytics project built from the **Superstore** dataset using Python and Power BI. The project transforms raw sales data into clear charts, trends, comparisons, and an interactive dashboard.
 
