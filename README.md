@@ -1,4 +1,4 @@
-# Task_2: Data Visualization
+# Task 2 — Data Visualization
 
 A visual analytics project built from the **Superstore** dataset using Python and Power BI. The project transforms raw sales data into clear charts, trends, comparisons, and an interactive dashboard.
 
@@ -52,7 +52,7 @@ This structure makes it easier to identify sales concentration, compare business
 
 ## Repository Structure
 
-text
+```text
 Task-2-Data-Visualization/
 ├── README.md
 ├── requirements.txt
@@ -69,7 +69,7 @@ Task-2-Data-Visualization/
 │   └── 05_sales_distribution_by_category.png
 └── powerbi/
     └── Sales_Transactions_Dashboard.pbix
-    
+```
 
 ## How to Run the Python Analysis
 
